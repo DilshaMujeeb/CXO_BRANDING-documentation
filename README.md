@@ -58,9 +58,7 @@ between the frontend and backend, ensuring secure access to the platform's featu
 RESTful APIs: Implemented to facilitate communication between the frontend and backend, RESTful APIs adhere to the principles of Representational State Transfer (REST), 
 offering a standardized and scalable approach for designing web services. These APIs define various endpoints for different functionalities within the platform, such as user authentication, resume refinement, website development, and networking opportunities.
 
-## Architecture
 
-Include an architecture diagram or description of how the frontend and backend interact.
 
 ## Setup Instructions
 
