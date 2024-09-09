@@ -1,5 +1,5 @@
 # CXO_BRANDING-documentation
-This repository contains documentation for the project "CXO BRANDING".
+This repository contains documentation and the link to the code for the project "CXO BRANDING".
 
 
 ## Overview
